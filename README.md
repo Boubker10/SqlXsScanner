@@ -1,4 +1,4 @@
 ## SqlXsScanner 
 
 
-![sqlinjection](https://github.com/user-attachments/assets/d0370214-4248-41e1-b89c-50057e8ba09a)
+![sqlinjection](https://github.com/user-attachments/assets/f45b7a08-24e7-4302-a634-ad1c662126d6)
